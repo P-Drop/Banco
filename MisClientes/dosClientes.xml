@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banco>
+    <cliente id="1">
+        <nombre>1</nombre>
+        <dni>1</dni>
+        <fechaNacimiento>1</fechaNacimiento>
+        <saldo>1.0</saldo>
+    </cliente>
+    <cliente id="2">
+        <nombre>2</nombre>
+        <dni>2</dni>
+        <fechaNacimiento>2</fechaNacimiento>
+        <saldo>2.0</saldo>
+    </cliente>
+</banco>
